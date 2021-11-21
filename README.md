@@ -1,5 +1,5 @@
-### Hi there 👋
-
+## Hi there 👋
+**My-Self Nitish Pandey**
 
 - 🔭 I’m currently Graduating on B.Tech(2020-24) from KIIT , Odisha , India
 - 🌱 I’m currently learning Machine Learning , Data Science and Competitive Programmimg.
@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact: I am a bit lazy ..
 
-Instagram :: [@n.pand3y]()
+Instagram :: [@n.pand3y]() > ___*I am just a message away from you.*___
 
 
 ```
