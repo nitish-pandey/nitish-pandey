@@ -17,6 +17,6 @@
 Instagram :: [@n.pand3y]() > ___*I am just a message away from you.*___
 
 
-```
-If you have been here ,Just leave with a smile.
-```
+
+>If you have been here ,Just leave with a smile.
+
