@@ -10,7 +10,7 @@
 
      LinkedIn :: [nitish_pandey-250b84224](https://www.linkedin.com/in/nitish-pandey-250b84224/)
      
-     mail :: [nitesh_pandey](niteshpandey2058@gmail.com)
+     mail :: niteshpandey2058@gmail.com
      
      Instagram :: [@n.pand3y](https://www.instagram.com/n.pand3y/) 
 
