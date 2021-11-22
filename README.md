@@ -8,13 +8,16 @@
 
 - 📫 How to reach me:
 
-     LinkedIn : https://www.linkedin.com/in/nitish-pandey-250b84224/
+     LinkedIn :: [nitish_pandey-250b84224](https://www.linkedin.com/in/nitish-pandey-250b84224/)
      
-     mail : niteshpandey2058@gmail.com
+     mail :: [nitesh_pandey](niteshpandey2058@gmail.com)
+     
+     Instagram :: [@n.pand3y](https://www.instagram.com/n.pand3y/) 
 
+
+
+> ___*I am just a message away from you.*___
 - ⚡ Fun fact: I am a bit lazy ..
-
-Instagram :: [@n.pand3y]() > ___*I am just a message away from you.*___
 
 
 
