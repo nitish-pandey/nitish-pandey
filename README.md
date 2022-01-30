@@ -12,7 +12,7 @@
      
      mail :: niteshpandey2058@gmail.com
      
-     Instagram :: [@n.pand3y](https://www.instagram.com/_nitish__pandey/) 
+     Instagram :: [@_nitish__pandey](https://www.instagram.com/_nitish__pandey/) 
 
 
 
