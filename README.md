@@ -14,7 +14,7 @@
      
      Instagram :: [@_nitish__pandey](https://www.instagram.com/_nitish__pandey/) 
 
-
+> Resume : [Click here](https://docs.google.com/document/d/1oqecjsPRn6oZm8lJ8m0HSfx_JShvkQxCNTmnAxc6Swc/edit)
 
 > ___*I am just a message away from you.*___
 - ⚡ Fun fact: I am a bit lazy ..
