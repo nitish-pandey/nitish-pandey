@@ -14,12 +14,11 @@
      
      Instagram :: [@_nitish__pandey](https://www.instagram.com/_nitish__pandey/) 
 
-> Resume : [Click here](https://docs.google.com/document/d/1oqecjsPRn6oZm8lJ8m0HSfx_JShvkQxCNTmnAxc6Swc/edit)
+> Download Resume : [Click here](https://docs.google.com/document/d/1oqecjsPRn6oZm8lJ8m0HSfx_JShvkQxCNTmnAxc6Swc/edit)
 
-> ___*I am just a message away from you.*___
-- ⚡ Fun fact: I am a bit lazy ..
-
-
-
->If you have been here ,Just leave with a smile.
-
+> Skills I acquire :
+     1. programming Language : C/C++ and Python
+     2. Machine Learning
+     3. Problem Solving and algorithms
+     4. Other technical skills ( like SQL , Basic Deployment using HTML and Flask,etc. )
+     5. Soft-core skills ( like Critical thinking, project management, Communications , etc. )
