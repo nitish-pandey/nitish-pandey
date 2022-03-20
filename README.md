@@ -22,3 +22,6 @@
     * Problem Solving and algorithms  
     * Other technical skills ( like SQL , Basic Deployment using HTML and Flask,etc. )  
     * Soft-core skills ( like Critical thinking, Project management, Communications , etc. )  
+
+
+Visit me at : [nitishpandey.com.np](nitishpandey.com.np)
