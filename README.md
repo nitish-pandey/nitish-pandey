@@ -24,4 +24,4 @@
     * Soft-core skills ( like Critical thinking, Project management, Communications , etc. )  
 
 
-Visit me at : [nitishpandey.com.np](nitishpandey.com.np)
+Visit me at : [nitishpandey.com.np](https://nitishpandey.com.np)
