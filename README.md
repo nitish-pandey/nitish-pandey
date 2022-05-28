@@ -29,5 +29,5 @@
 </p>
 
 
-
-     
+   * I am learning the domain of Data Science and Machine Learning ( along with deep learning ).
+   * I have done few projects in Data-Science and Machine-Learning.
