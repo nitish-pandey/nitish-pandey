@@ -1,27 +1,33 @@
-## Hi there 👋
-**My-Self Nitish Pandey**
 
-- 🔭 I’m currently Graduating on B.Tech(2020-24) from KIIT , Odisha , India
-- 🌱 I’m currently learning Machine Learning , Data Science and Competitive Programmimg.
-- 👯 I’m looking forward to do a lot of projects and learn new things. 
->*You can contact me if you want to colaborate*
 
-- 📫 How to reach me:
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-     LinkedIn :: [nitish_pandey-250b84224](https://www.linkedin.com/in/nitish-pandey-250b84224/)
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/nitish-pandey-250b84224/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/_nitish__pandey/">
+    <img src="https://img.shields.io/badge/Instagram-orange"/>
+  </a>
+  <a href="https:nitishpandey.com.np/">
+    <img src="https://img.shields.io/badge/Web-site-brightgreen"/>
+  </a>
+</div>
+
+<h1 align="center">
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+<hr>
+
+<p>
+     I'm Nitish <br>
+     I am a student, currently pursuing my Bachelors degree in Information Technology from Kalinga Institute of Industrail Technology, Bhubaneshwor, India.
+</p>
+
+
+
      
-     mail :: niteshpandey2058@gmail.com
-     
-     Instagram :: [@_nitish__pandey](https://www.instagram.com/_nitish__pandey/) 
-
-> Download Resume : [Click here](https://docs.google.com/document/d/1oqecjsPRn6oZm8lJ8m0HSfx_JShvkQxCNTmnAxc6Swc/edit)
-
-## Skills I acquire :  
-    * Programming Language : C/C++ and Python  
-    * Machine Learning ( along with Deep Learning )  
-    * Problem Solving and algorithms  
-    * Other technical skills ( like SQL , Basic Deployment using HTML and Flask,etc. )  
-    * Soft-core skills ( like Critical thinking, Project management, Communications , etc. )  
-
-
-Visit me at : [nitishpandey.com.np](https://nitishpandey.com.np)
