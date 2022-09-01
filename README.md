@@ -23,11 +23,18 @@
 
 <hr>
 
-<p>
-     I'm Nitish <br>
-     I am a student, currently pursuing my Bachelors degree in Information Technology from Kalinga Institute of Industrail Technology, Bhubaneshwor, India.
-</p>
+### Hi there 👋  
+* 👂 My name is Nitish Pandey  
+* 🔭 I’m currently a Under-grad student in B.Tech. 
+* 🌱 I’m currently learning Data Science and Machine Learning.
+* 🤝 I’m looking to collaborate on projects and Internships.
+* 💬 Ask me about ...
+* 📫 How to reach me: [My-Website](https://nitishpandey.com.np)
+* ❤️ I love .... (figuring it out)
+* ⚡ Fun fact: I am wierd
 
 
-   * I am learning the domain of Data Science and Machine Learning ( along with deep learning ).
-   * I have done few projects in Data-Science and Machine-Learning.
+
+<img src="https://github-readme-stats.vercel.app/api?username=nitish-pandey&show_icons=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand"/>
