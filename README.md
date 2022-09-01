@@ -35,6 +35,26 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=nitish-pandey&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nitish-pandey&show_icons=true&theme=dark"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nitish-pandey&theme=dark"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nitish-pandey&theme=dark"/>
+
+
+
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nitish-pandey-250b84224/)
+[![](https://img.shields.io/badge/Instagram-%230077B5.svg?style=for-the-badge&logo=instagram)](https://www.instagram.com/_nitish__pandey/)
+
+
+## Skills
+
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
+
+<br>
