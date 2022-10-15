@@ -20,7 +20,6 @@
 </a>
 
 
-
 <!-- website link -->
   <a href="https://nitishpandey.com.np/" target="_blank">
     <img src="https://img.shields.io/badge/Website-nitishpandey.com.np-brightgreen"/>
@@ -133,6 +132,12 @@
   <a href="https://www.facebook.com/nitishpandey2058/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" width="150" height="35">
   </a>
+
+<br>
+<!-- Gmail logo -->
+<a href="mailto:niteshpandey2058@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" width="130" height="35"/>
+</a>
 
 </div>
 
