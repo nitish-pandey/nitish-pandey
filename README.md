@@ -42,7 +42,6 @@
   <p>
 
   ## About Me
-  I'm a 3rd year student at <a href="https://www.kiit.ac.in/">KIIT University</a> pursuing my Bachelors of Technology in Information Technology.
 
   I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems.
 
@@ -75,8 +74,8 @@
   &nbsp;
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"  width="100" height="35"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"  width="100" height="35"/>  
-  <br>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"  width="100" height="35"/>   
+  <br><br>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" width="100" height="35"/> &nbsp;
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"  width="100" height="35"/>
   &nbsp;&nbsp;
@@ -87,18 +86,13 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge&logo=matplotlib&logoColor=white" width="100" height="35"/>&nbsp;
   <img src="https://img.shields.io/badge/Seaborn-258ea6?style=for-the-badge&logo=seaborn&logoColor=white" width="100" height="35"/>
-  <br>
+  <br><br>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" width="100" height="35"/> &nbsp;
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" width="100" height="35"/>
-  <br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="100" height="35"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="100" height="35"/>
-  <br>
   <img src="https://img.shields.io/badge/Git-F03532?style=for-the-badge&logo=git&logoColor=white" width="100" height="35"/>
   &nbsp;
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="100" height="35"/>
-  <br>
+  <br><br>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" width="100" height="35"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" width="100" height="35"/>
@@ -124,20 +118,20 @@
 <div align="center">
 
   <a href="https://www.linkedin.com/in/nitish-pandey-250b84224/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" width="135">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" width="150" height="35">
   </a>
   &nbsp;  &nbsp;  &nbsp;
   <a href="https://www.instagram.com/_nitish__pandey/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" width="135">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" width="150" height="35">
   </a>
     &nbsp;  &nbsp;  &nbsp;
   <!-- website -->
   <a href="https://nitishpandey.com.np/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-FF5722?logo=google-chrome&logoColor=white" width="150">
+    <img src="https://img.shields.io/badge/Website-FF5722?logo=google-chrome&logoColor=white" width="150" height="35">
   </a>
     &nbsp;  &nbsp;  &nbsp;
   <a href="https://www.facebook.com/nitishpandey2058/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" width="150">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" width="150" height="35">
   </a>
 
 </div>
@@ -170,6 +164,7 @@
 
 ## Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=nitish-pandey&show_icons=true&theme=dark" width="600"> &nbsp;&nbsp;
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nitish-pandey&theme=dark" width="300">  
 
 <br><br>
